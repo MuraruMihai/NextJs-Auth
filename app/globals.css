@@ -40,3 +40,8 @@ a {
     color-scheme: dark;
   }
 }
+
+
+.pointer {
+    cursor: pointer;
+}
